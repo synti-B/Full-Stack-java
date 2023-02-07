@@ -1,2 +1,2 @@
 # Full-Stack-java
-curso de egg solo parte de java
+curso de egg desde intro java, guia 6.
