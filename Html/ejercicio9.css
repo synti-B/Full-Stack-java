@@ -1,0 +1,50 @@
+h1{
+    color:rgb(28, 224, 224);
+}
+strong{
+    color: rgb(243, 34, 34);
+}
+.destacado{
+color: gold;
+}
+h2{
+    color: blue;
+}
+p a {
+    color: rgb(243, 34, 34);
+
+}
+em{
+    color: blue;
+
+}
+.especial{
+    color: yellow;
+}
+span.especial{
+    color:rgb(248, 5, 248);
+}
+tfoot{
+    color: rgb(243, 34, 34);
+}
+tbody{
+    color:rgb(15, 179, 15);
+}
+ div{
+    color: greenyellow;
+}
+ #especial{
+    color: rgb(243, 160, 239);
+}
+div p a {
+    color: green;
+}
+td strong{
+    color:yellow;
+}
+td em{
+    color: green;
+}
+th {
+    color:red;
+}
